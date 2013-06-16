@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="75" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Main" tilewidth="32" tileheight="32">
+  <image source="tiles.png" width="64" height="32"/>
+ </tileset>
+ <layer name="background" width="75" height="15">
+  <properties>
+   <property name="atl_parallaxX" value="0.2"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztlDkOACAIBPX/n7anIRwq4kxih7Ic6xgAAPA7U5wuubKR2i36vfGRnDeRejXd0VojPbLezZyJZ85a/I698byZubMZfjjlnQq+feXPqKCteo8AoD8LGYkAXw==
+  </data>
+ </layer>
+ <layer name="level" width="75" height="15" opacity="0.66">
+  <data encoding="base64" compression="zlib">
+   eJztl8EKABAQBTf//9GuUhgryetNbSkHzDrsKxFRXLjMGrvi2BXHrjh2xbErjl1x1FzRWSgzN6m5usnMVbu3u77Fyzl6dF7mLko5gGacbN/Uc1P/rpM/rp4zX2f236oCDMYByw==
+  </data>
+ </layer>
+</map>
